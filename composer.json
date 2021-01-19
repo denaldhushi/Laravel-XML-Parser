@@ -2,7 +2,7 @@
     "name": "denald/orm",
     "type": "autoloader",
     "require": {
-        "illuminate/database": "^5.4"
+        "illuminate/database": "^6.20"
     },
     "autoload": {
     	"classmap": [
